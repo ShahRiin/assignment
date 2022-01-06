@@ -1,0 +1,130 @@
+h1{
+    font-size: 40px;
+}
+.orange-color{
+    color: rgb(190, 124, 25);
+}
+#border{
+    margin-left: 15px;
+    border-left: red solid 3px;
+}
+.first-link{
+    text-decoration: none;
+    border-radius: 5px;
+    background-color: salmon;
+    padding: 5px 10px;
+}
+section{
+    display: flex;
+}
+.width{
+    width: 50%;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.width img{
+    width: 80%;
+}
+.first-container{
+    margin-bottom: 100px;
+}
+h1{
+    font-family: 'Rubik', sans-serif;
+    text-align: center;
+}
+.mission{
+    color: sandybrown;
+}
+#second-part{
+    display: flex;
+    margin-bottom: 100px;
+}
+.first-box{
+    background-color: skyblue;
+    border-radius: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 50%;
+}
+.first-box img{
+    width: 40%;
+}
+.second-box{
+    background-color:slateblue ;
+    border-radius: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 50%;
+}
+.second-box img{
+    width: 40%;
+}
+.third-box{
+    background-color: blueviolet;
+    border-radius: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 50%;
+}
+.third-box img{
+    width: 40%;
+}
+.third-part{
+    display: flex;
+    margin-bottom: 100px;
+}
+.third-part img{
+    width: 50%;
+    margin-right: 50px;
+    margin-left: 20px;
+}
+.second-link{
+text-decoration: none;
+border-radius: 5px;
+padding: 5px 10px;
+background-color: rgb(237, 132, 247);
+}
+#g-c{
+    text-align: left;
+}
+.fourth-p{
+    display: flex;
+}
+#third-link{
+    text-decoration: none;
+    background-color: blueviolet;
+    border-radius: 5px;
+    padding: 5px 10px;
+}
+.project{
+    width: 50%;
+}
+#ending{
+    color: orangered;
+}
+#last-p{
+    color: orangered;
+}
+#last-part{
+    display: flex;
+    margin-bottom: 100px;
+}
+.last-link{
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+    background-color: rgb(206, 129, 189);
+}
+#p-m-a-p{
+    text-align: left;
+}
+.frt{
+    color: rgb(68, 75, 4);
+}
+footer{
+    background-color: rgb(196, 150, 223);
+    text-align: center;
+}
+.ending-footer{
+    font-family:'The Nautigal', cursive;
+}
